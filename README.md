@@ -1,6 +1,3 @@
-Project Flower Exchange
--
-
 Description
 -
 Project Flower Exchange is a C++ program designed to simulate a flower exchange system where participants can trade flowers based on predefined rules. The program allows users to register, view available flowers, make exchanges, and track their collection. It provides a simple console-based interface for interacting with the system.
